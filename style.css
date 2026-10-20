@@ -1,0 +1,20 @@
+#scrollBox{
+    background-color: rgb(252, 252, 252);
+    width: 3000px; /* makes the page big enough to scroll on */
+    height: 3000px;
+}
+
+p {
+    padding: 10px;
+    margin: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#div1{
+    background-color: red;
+    width: 70%;
+    height: 200px;
+    position: fixed;
+    top: 100px;
+    left: 40px;
+}
