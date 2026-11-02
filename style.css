@@ -4,17 +4,22 @@
     height: 3000px;
 }
 
-p {
+p, h1 {
     padding: 10px;
     margin: 15px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+#initialInstructions{
+    position: fixed;
+    top: 80px;
+}
+
 #div1{
-    background-color: red;
+    background-color: rgb(255, 82, 82);
     width: 70%;
     height: 200px;
     position: fixed;
-    top: 100px;
+    top: 150px;
     left: 40px;
 }
